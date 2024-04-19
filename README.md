@@ -12,7 +12,7 @@
 
 ¡Bienvenido a mi perfil! En este archivo README me presento como programador y destaco los conocimientos que he adquirido en los últimos años. He completado diversos cursos de programación y actualmente estoy perfeccionando mis habilidades mientras estudio ingenieria de sistemas en EAFIT. A lo largo de mi trayectoria, he desarrollado unos pocos proyectos y me mantengo actualizado con las últimas tendencias en tecnología.
 
-##Conocimiento adquiridos a lo largo de mi paso por el mundo de la programación:
+##Conocimientos adquiridos a lo largo de mi paso por el mundo de la programación:
 ---
 
 - Bases de datos relacionales (Mysql)
