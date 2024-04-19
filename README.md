@@ -1,7 +1,7 @@
 
 <h1 align="center"> Juan José Diaz Rodriguez</h1>
 
-#¡Hola! Soy Juan José, tengo 17 años y estudio ingenieria de sistemas en la universidad EAFIT.
+¡Hola! Soy Juan José, tengo 17 años y estudio ingenieria de sistemas en la universidad EAFIT.
 
 *Becario del programa ver+ beca tech*
 
