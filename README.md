@@ -8,7 +8,7 @@
 *Soy becario del programa ver+ beca tech*
 
 
-## Conocimiento adquiridos a lo largo de mi paso por el mundo de la programación:
+### Conocimiento adquiridos a lo largo de mi paso por el mundo de la programación:
 ---
 
 - Bases de datos relacionales (Mysql)
