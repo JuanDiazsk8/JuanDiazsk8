@@ -4,28 +4,26 @@
 <h1 align="center"> Juan Jose Diaz</h1>
 
 *¡Hola! Soy Juan Jose, tengo 17 años y estudio ingenieria de sistemas en la universidad EAFIT.*
+*Soy becario del porgrama ver+ beca tech*
 
 
-## Tabla de contenidos:
+## Conocimiento adquiridos a lo largo de mi paso por el mundo de la programación:
 ---
 
-- [Badges o escudos](#badges-o-escudos)
-- [Descripción y contexto](#descripción-y-contexto)
-- [Guía de usuario](#guía-de-usuario)
-- [Guía de instalación](#guía-de-instalación)
-- [Cómo contribuir](#cómo-contribuir)
-- [Código de conducta](#código-de-conducta)
-- [Autor/es](#autores)
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
+- Bases de datos relacionales (Mysql)
+- Python
+- Java (POO)
+- Sql
+- PHP
+- Dart
+
 
 
 
 ## Descripción y contexto
 ---
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
+Esto es un archivo README en el cual hago introduccion de mi persona como programador y que conocimientos he logrado adquirir en los ultimos años, pasando por cursos de programacion y ahora mismo en la universidad.
 
-Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
+
 
 
