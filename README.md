@@ -4,7 +4,8 @@
 <h1 align="center"> Juan Jose Diaz</h1>
 
 *¡Hola! Soy Juan Jose, tengo 17 años y estudio ingenieria de sistemas en la universidad EAFIT.*
-*Soy becario del porgrama ver+ beca tech*
+#
+*Soy becario del programa ver+ beca tech*
 
 
 ## Conocimiento adquiridos a lo largo de mi paso por el mundo de la programación:
