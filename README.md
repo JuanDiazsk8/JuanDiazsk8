@@ -4,7 +4,7 @@
 
 ¡Hola! Soy Juan José, tengo 17 años y estudio ingenieria de sistemas en la universidad EAFIT.
 
-*Becario del programa ver+ beca tech*
+*Becario del programa ver+ beca tech.*
 
 
 ---
