@@ -1,9 +1,9 @@
 
 ![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
 ![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/Plantilla-de-repositorio/readme&dt=&tid=UA-4677001-16)
-<h1 align="center"> Juan Jose Diaz</h1>
+<h1 align="center"> Juan José Diaz Rodriguez</h1>
 
-*¡Hola! Soy Juan Jose, tengo 17 años y estudio ingenieria de sistemas en la universidad EAFIT.*
+*¡Hola! Soy Juan José, tengo 17 años y estudio ingenieria de sistemas en la universidad EAFIT.*
 #
 *Becario del programa ver+ beca tech*
 
